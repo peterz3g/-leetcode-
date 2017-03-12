@@ -1,4 +1,4 @@
-# algorithms basic
+# 《algorithms basic》学习笔记
 LeetCode官方网站上的算法基础课程《algorithms basic》学习笔记      
 还是比较习惯在简书上写作，预览和上传图片也比较方便，这里就放源码和文章链接吧。
 
